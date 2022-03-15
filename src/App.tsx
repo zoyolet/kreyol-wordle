@@ -79,7 +79,7 @@ const App: React.FC<WithTranslation> = ({ t, i18n }) => {
         setIsStatsModalOpen(true)
       }, ALERT_TIME_MS)
     }
-  }, [isGameWon, isGameLost])
+  }, [isGameWon, isGameLost, WIN_MESSAGES])
 
   const onChar = (value: string) => {
     if (
