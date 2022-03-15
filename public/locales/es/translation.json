@@ -21,6 +21,11 @@
     "bestStreak": "Mejor racha",
     "newWordCountdown": "Nueva palabra en",
     "share": "Compartir",
+    "winMessages": [
+        "¡Gran trabajo!",
+        "Increíble",
+        "¡Bien hecho!"
+    ],
     "firstExampleWord": [{
             "letter": "T",
             "highlight": true

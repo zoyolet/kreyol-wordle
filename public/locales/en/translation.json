@@ -21,6 +21,11 @@
     "bestStreak": "Best streak",
     "newWordCountdown": "New word in",
     "share": "Share",
+    "winMessages": [
+        "Great Job!",
+        "Awesome",
+        "Well done!"
+    ],
     "firstExampleWord": [{
             "letter": "W",
             "highlight": true
