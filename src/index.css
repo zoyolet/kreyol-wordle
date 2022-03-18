@@ -3,6 +3,7 @@
 @tailwind utilities;
 div {
   font-family: 'BCSans', 'Noto Sans', sans-serif;
+  background-color: bisque;
 }
 
 .cell-animation {
